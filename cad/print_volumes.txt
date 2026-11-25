@@ -1,0 +1,8 @@
+part,volume_cm3,mass_g_at_75pct
+tutup.stl,65.12,60.6
+batang_penggantung.stl,1.68,1.6
+kotak_elektronik_badan.stl,33.92,31.5
+kotak_elektronik_atap.stl,4.93,4.6
+ruang_optik_badan.stl,42.97,40.0
+ruang_optik_pintu.stl,3.93,3.7
+TOTAL (2 hanger bars),154.23,143.6

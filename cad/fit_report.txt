@@ -1,0 +1,9 @@
+container inner 130 x 130 mm, height 150 mm; lid 144 x 144 mm
+plate bottom above floor: 20.0 mm; plate top above lid top: 16.0 mm
+water depth at 1,5 L: 92.1 mm (fill mark); immersed plate height: 72.1 mm
+active area (3 anode-cathode pairs, one face each): 214 cm2 (from plan size; use measured plates)
+currents for 1 / 2 / 3 mA/cm2 on this area: 0.214 A / 0.429 A / 0.643 A
+plates 99 x 149 mm; ESP32 board underside 22 mm above the electronics-box floor
+siphon intake: 46.1 mm above floor; siphon stop mark: 51.1 mm above floor
+pipette dip mark from lid top: 106.9 mm
+water left at siphon stop: 0.84 L; siphon yield (before sampling losses): 0.66 L

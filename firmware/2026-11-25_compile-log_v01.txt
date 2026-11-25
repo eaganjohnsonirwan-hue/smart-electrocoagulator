@@ -1,0 +1,15 @@
+﻿Compile log 2026-11-25 (arduino-cli 1.6.0, ESP32 core esp32:esp32 3.3.13, Adafruit INA219 1.2.3, Adafruit BusIO 1.17.4)
+Not yet tested on hardware.
+
+== logger (FQBN esp32:esp32:esp32, --warnings all) ==
+Result: exit code 0, 0 errors
+Sketch uses 308829 bytes (23%) of program storage space. Maximum is 1310720 bytes.
+Global variables use 23684 bytes (7%) of dynamic memory, leaving 303996 bytes for local variables. Maximum is 327680 bytes.
+Warnings: 3, all inside the Adafruit INA219 library (deprecated enum-enum bitwise operation, lines 266/377/468); none in logger.ino
+
+== camera (FQBN esp32:esp32:esp32cam, --warnings all) ==
+Result: exit code 0, 0 errors
+Sketch uses 1050066 bytes (33%) of program storage space. Maximum is 3145728 bytes.
+Global variables use 60192 bytes (18%) of dynamic memory, leaving 267488 bytes for local variables. Maximum is 327680 bytes.
+Warnings: 0 in camera.ino
+Compiled with a placeholder secrets.h (copied from secrets.h.example; git-ignored).
